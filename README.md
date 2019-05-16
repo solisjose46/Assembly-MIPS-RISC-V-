@@ -5,4 +5,5 @@ Int A[10], Int Index <br/>
 Index = A[Index]; <br/>
 //Pratice: base address offset/pointer, shift left logical
 <br/>
-matrix_mult_4_x_4.asm - User inputs two 4x4 matrixes as strings, convert matrices to ints then multiply and print result
+matrix_mult_4_x_4.asm - User inputs two 4x4 matrixes as strings, convert matrices to ints then multiply and print result <br/>
+//Practice: branching, looping, base address offset/pointer
